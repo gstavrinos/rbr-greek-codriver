@@ -3,10 +3,11 @@ Greek co-driver mod for Richard Burns Rally :car:
 
 # Installation instructions
 0. Backup the `Audio` and `Plugins` folders from the root directory of your RBR installation.
-1. Copy the files of this repository inside the root directory of your RBR installation.
-2. Overwrite already existing files.
-3. Select the `FRENCH` pacenotes in-game.
-4. :greece: :car: :checkered_flag:
+1. Download the latest version of the mod from [>here<](https://github.com/gstavrinos/rbr-greek-codriver/releases/latest)
+2. Copy the files of this repository inside the root directory of your RBR installation.
+3. Overwrite already existing files.
+4. Select the `FRENCH` pacenotes in-game.
+5. :greece: :car: :checkered_flag:
 
 # Disclaimers
 1. The mod has been tested only using the RSF RBR mod (aka Hungarian mod), but it should work with any installation of RBR that has the Pacenotes Plugin.
